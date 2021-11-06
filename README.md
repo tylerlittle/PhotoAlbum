@@ -13,7 +13,7 @@ Overview
 - Paste the copied url into the <i>Url</i> textbox
 - Choose the directory to clone the repo to.  This will be the directory created earlier.
 - After the repo is cloned, proceed to build PhotoAlbum by selecting <i>Build</i> &rarr; <i>Build PhotoAlbum</i> from the menu bar.
-- Open up a terminal and navigate to the root of where you cloned your project.  In our example, this will be inside the <i>photoAlbum</i> directory on the desktop.  From there, drill down to <i>PhotoAlbum</i> => <i>bin</i> &rarr; <i>Debug</i> &rarr; <i>net5.0</i>
+- Open up a terminal and navigate to the root of where you cloned your project.  In our example, this will be inside the <i>photoAlbum</i> directory on the desktop.  From there, drill down to <i>PhotoAlbum</i> &rarr; <i>bin</i> &rarr; <i>Debug</i> &rarr; <i>net5.0</i>
 - Once inside the <i>net5.0</i> directory, enter the command:
   - dotnet PhotoAlbum.dll <i>albumId</i>
     - where <i>albumId</i> is the id of the album to query
