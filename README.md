@@ -29,6 +29,8 @@ Examples that will return friendly errors (hints):
 - dotnet PhotoAlbum.dll
 - dotnet PhotoAlbum.dll 1 2
 - dotnet PhotoAlbum.dll abc
+- dotnet PhotoAlbum.dll 0
+- dotnet PhotoAlbum.dll 101
 
 ---
 ### If using Visual Studio for Windows:
