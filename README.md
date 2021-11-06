@@ -1,6 +1,6 @@
 # PhotoAlbum
 Overview
-- This repository contains a console app written in C# that retrieves and displays photo id's and titles for a given album from <i>https://jsonplaceholder.typicode.com</i>
+- This repository contains a console app written in C# that retrieves and displays photo ids and titles for a given album from <i>https://jsonplaceholder.typicode.com</i>
 - Also contained within the solution is a project containing unit tests
 
 ---
