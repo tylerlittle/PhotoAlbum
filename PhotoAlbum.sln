@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.810.11
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoAlbum", "PhotoAlbum\PhotoAlbum.csproj", "{03BB814E-E065-439A-AA6A-EED74B3C6DDD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoAlbumTests", "PhotoAlbumTests\PhotoAlbumTests.csproj", "{A6EF7541-F875-4F0D-B31E-49EDDC7E787F}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PhotoAlbum.UnitTests", "PhotoAlbumTests\PhotoAlbum.UnitTests.csproj", "{A6EF7541-F875-4F0D-B31E-49EDDC7E787F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
